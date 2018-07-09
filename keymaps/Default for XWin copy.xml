@@ -36,4 +36,7 @@
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
 </keymap>
